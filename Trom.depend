@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444631724 source:c:\users\ali abdulla\desktop\cpp\trom\main.cpp
+	<iostream>
+	"proj.h"
+
+1444631583 c:\users\ali abdulla\desktop\cpp\trom\proj.h
+
+1444631583 source:c:\users\ali abdulla\desktop\cpp\trom\proj.cpp
+	"proj.h"
+	<iostream>
+
